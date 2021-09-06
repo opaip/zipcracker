@@ -1,5 +1,8 @@
 # zipcracker
-an open source application for cracking zipfile
+an open source application for cracking zipfile --- this app has two part : 
+
+main.py >> console mode
+Gu.py >> GUI mode
 
 # error
 just one error can makes problem in app and that is a passfile without any thing . before use check passfile also 
